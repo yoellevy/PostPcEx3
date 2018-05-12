@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PostPcEx3</string>
+    <string name="AsyncTask">AsyncTask</string>
+    <string name="Threads">Threads</string>
+    <string name="create">Create</string>
+    <string name="Start">Start</string>
+    <string name="cancel">Cancel</string>
+</resources>
